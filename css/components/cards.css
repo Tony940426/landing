@@ -1,0 +1,16 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 200px;
+  text-align: center;
+  box-shadow: 1px 1px 10px rgba(0,0,0,0.4);
+  padding: 20px;
+}
+
+.cards img {
+  width: 100px;
+}
